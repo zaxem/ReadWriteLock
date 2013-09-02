@@ -1,0 +1,25 @@
+{
+  "name": "readwritelock",
+  "version": "0.0.1",
+  "description": "A read/write lock for node.",
+  "main": "./lib/ReadWriteLock.js",
+  "scripts": {
+    "test": "nodeunit test/test.js"
+  },
+  "keywords": [
+    "lock",
+    "locker",
+    "rwlock",
+    "readwritelock",
+    "synchronize"
+  ],
+  "author": "xmzhao <zhaxem@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zaxem/ReadWriteLock.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zaxem/ReadWriteLock/issues"
+  },
+  "license": "MIT"
+}
